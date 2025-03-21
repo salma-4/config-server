@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Eureka_Server
+    name: eureka-server
 
 
 server:
